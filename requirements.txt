@@ -1,0 +1,9 @@
+black
+flake8
+folium
+jupyterlab
+numpy
+pandas
+scikit-learn
+seaborn
+xgboost
