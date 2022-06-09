@@ -224,3 +224,7 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,jupyternotebooks
 dataset/recommendation/combined_data_4.txt
+
+dataset/recommendation/netflix_rating.pkl
+
+dataset/recommendation/netflix_titles.pkl
