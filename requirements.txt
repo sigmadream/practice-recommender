@@ -9,3 +9,4 @@ seaborn
 xgboost
 category_encoders
 mapie
+scikit-surprise
