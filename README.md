@@ -1,6 +1,6 @@
 # 추천 시스템은 어떻게 만드는가?
 
-## requests
+## requirements
 
 - Python === `3.9.x`
 
